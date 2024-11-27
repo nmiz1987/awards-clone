@@ -1,0 +1,7 @@
+node_modules
+.vscode
+package.json
+src/assets
+.editorconfig
+.env
+tsconfig.json
